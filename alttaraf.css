@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(127, 30, 233);
+}
+
+
+iframe{
+    border-radius: 22px;
+}
+
+h1 , h4 , h6 , h3 , h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(89, 229, 181);
+}
+
+
+
+.container{
+    width: 50px;
+    padding: 100px;
+    background-color: aqua;
+}
